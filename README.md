@@ -1,4 +1,4 @@
-24 Haziran 2018 seçiminde Adil Seçim Platformu sandık sonuçlarını bir telefon uygulaması ile alandan paylaşılan tutanak fotoğraflarına göre sayacağını duyurdu. Dolayısı ile Yüksek Seçim Kurumu'nun yayınlayacağı sonuçlar ile tutanaklara dayalı bağımsız yapılmış sayımın sonuçları karşılaştırmak mümkünatı oluşmuştur.
+24 Haziran 2018 seçiminde Adil Seçim Platformu sandık sonuçlarını bir telefon uygulaması ile alandan paylaşılan tutanak fotoğraflarına göre sayacağını duyurdu. Dolayısı ile Yüksek Seçim Kurumu'nun yayınlayacağı sonuçlar ile tutanaklara dayalı bağımsız yapılmış sayımın sonuçlarını karşılaştırmak bir teyit ve itiraz imkanı sağlayacaktır.
 
 Adil Seçim Platformu [adilsecim.net](https://adilsecim.net/) sitesinde 24 Haziran'da akşama doğru yayınlanan haritalar ve veriler gece yarısı itibariyle herhangi bir açıklama yapılmadan kaldırıldı. Ancak sitede API açık tutuldu.
 
